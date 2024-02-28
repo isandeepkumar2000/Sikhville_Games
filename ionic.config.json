@@ -1,0 +1,8 @@
+{
+  "name": "SikhVille_Games",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "fdd4ed26"
+}
